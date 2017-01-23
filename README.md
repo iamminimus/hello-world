@@ -1,2 +1,3 @@
 # hello-world
-Sample repository
+
+God is good.
